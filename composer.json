@@ -9,5 +9,13 @@
             "email": "info@sourceboat.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.7"
+    },
+    "scripts": {
+        "test": [
+            "vendor/bin/phpcs --extensions=php --ignore=vendor/ ."
+        ]
+    }
 }
