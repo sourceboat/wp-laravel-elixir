@@ -1,0 +1,13 @@
+{
+    "name": "sourceboat/wp-laravel-elixir",
+    "description": "Get versioned Laravel Elixir file paths in WordPress.",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sourceboat",
+            "email": "info@sourceboat.com"
+        }
+    ],
+    "require": {}
+}
