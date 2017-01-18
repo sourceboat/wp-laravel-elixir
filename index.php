@@ -3,7 +3,7 @@
  * Plugin Name: WP Laravel Elixir
  * Plugin URI: https://github.com/sourceboat/wp-laravel-elixir/
  * Description: Get versioned Laravel Elixir file paths in WordPress.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Sourceboat
  * Author URI: https://sourceboat.com/
  * License: MIT License
