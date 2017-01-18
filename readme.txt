@@ -14,5 +14,8 @@ Get versioned Laravel Elixir file paths in WordPress.
 1. Use `elixir(\'path/to/file.ext\')`  helper function.
 
 == Changelog ==
+= 1.0.1 =
+* improvements for official release
+
 = 1.0.0 =
 * initial release
