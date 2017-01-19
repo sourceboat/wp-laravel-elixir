@@ -28,6 +28,9 @@
     "scripts": {
         "test": [
             "vendor/bin/phpcs --extensions=php --ignore=vendor/ ."
+        ],
+        "package": [
+            "zip -r wp-laravel-elixir.zip . -x '.git/*'"
         ]
     }
 }
