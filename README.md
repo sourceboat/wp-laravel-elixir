@@ -1,4 +1,4 @@
-:warning: **Deprecated:** This project is not actively maintained anymore. Please use something else.
+:warning: **Deprecated:** This project is not actively maintained anymore. Use it at your own risk.
 
 # WP Laravel Elixir
 
