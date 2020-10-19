@@ -1,3 +1,5 @@
+:warning: **Deprecated:** This project is not actively maintained anymore. Please use something else.
+
 # WP Laravel Elixir
 
 [![Packagist](https://img.shields.io/packagist/v/sourceboat/wp-laravel-elixir.svg?style=flat-square)](https://packagist.org/packages/sourceboat/wp-laravel-elixir)
